@@ -1,0 +1,24 @@
+{
+  "name": "Gym Love · Ulises y Fran",
+  "short_name": "Gym Love",
+  "description": "Rutinas y seguimiento de entrenamientos para Ulises y Fran",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a0b14",
+  "theme_color": "#1a0b14",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
